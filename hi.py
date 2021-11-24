@@ -6,3 +6,5 @@ print("yeni kodlar")
 # Fonksiyon tanımlıyoruz
 def hello():
     print("ebruagbay")
+
+# Yeni branch ekleme, pycharm için
