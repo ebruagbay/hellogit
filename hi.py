@@ -8,3 +8,6 @@ def hello():
     print("ebruagbay")
 
 # Yeni branch ekleme, pycharm için
+
+# Çok şükür bağlandık githuba
+print("yuppi")
